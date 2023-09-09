@@ -1,6 +1,6 @@
 # TicTacToe
  
-*😁 ُhis is my tic tac toe game*
+*😁 This is my tic tac toe game*
 - [Demo Project](https://masoomi1396.github.io/TicTacToe/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-09-08
